@@ -13,4 +13,4 @@ I'm a physics student at kuleuven <br>Passionate about tech an software<br>Aspir
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sudo-Ape&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sudo-Ape&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sudo-Ape&icon=0)](https://visitcount.itsvg.in)
